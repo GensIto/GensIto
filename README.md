@@ -5,7 +5,7 @@ Future: UI Tech Lead 💼 | Driving Innovation with Latest Tech 🌐 | Leading w
 
 Feel free to explore my skills and projects below! Let's connect and make something amazing together! 🌟
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=gensito)
 
 ### My Skill Sets
 ![](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,jest,prisma,figma,flutter)
