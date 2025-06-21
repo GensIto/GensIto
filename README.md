@@ -8,5 +8,5 @@ Feel free to explore my skills and projects below! Let's connect and make someth
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=gensito)
 
 ### My Skill Sets
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,vite,jest,prisma,figma,go)
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,vite,jest,prisma,figma) & hono
 
