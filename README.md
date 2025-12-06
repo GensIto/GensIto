@@ -1,9 +1,22 @@
 ### Hi there 👋😊
-Now: Junior Front-End Developer 🚀 | Passion for UI/UX Design 🎨 | Former Soccer Player ⚽ | Team Player & Lifelong Learner 🤝📚
+```ts
+type Role = "Frontend Engineer" | "Ex-Soccer Player";
 
-Future: UI Tech Lead 💼 | Driving Innovation with Latest Tech 🌐 | Leading with Vision and Creativity ✨ | Aspiring to Work Globally 🌍
-
-Feel free to explore my skills and projects below! Let's connect and make something amazing together! 🌟
+const GENS: Developer = {
+  name: "Genta Ito",
+  role: "Frontend Engineer" as Role,
+  location: "🇯🇵",
+  mindset: ["Team Player", "Lifelong Learner", "UI/UX Lover"],
+  now: {
+    focus: ["Frontend Architecture", "DX/UX", "Design Systems"],
+    stack: ["TypeScript", "React", "Next.js", "Remix", "Hono"]
+  },
+  future: {
+    goal: "Tech Lead",
+    dream: "Work at a global tech company 🌍"
+  }
+};
+```
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=gensito)
 
