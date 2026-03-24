@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=gensito)
 
 ### My Skill Sets
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,vite,jest,prisma,figma)
+![](https://skillicons.dev/icons?i=ts,react,nextjs,remix,vite,jest,prisma,figma,nodejs)
 
 
 [88c5eeb4-1d1b-4bd5-9856-9c763d31e49f (1).pdf](https://github.com/user-attachments/files/21100266/88c5eeb4-1d1b-4bd5-9856-9c763d31e49f.1.pdf)
